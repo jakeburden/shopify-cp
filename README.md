@@ -41,6 +41,7 @@ pull request welcome to add more api methods! :)
 ## Auth
 
 SOURCE [string]: 'https://APIKey:Password@SOURCE.myshopify.com'
+
 SINK [string]: 'https://APIKey:Password@SINK.myshopify.com'
 
 replace {APIKey, Password, SOURCE, SINK} with actual values from your shopify admin panel
