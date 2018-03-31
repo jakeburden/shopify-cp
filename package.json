@@ -1,0 +1,25 @@
+{
+  "name": "shopify-cp",
+  "version": "1.0.0",
+  "description": "> utility module for copying various aspects of shopify sites from a source site to duplicate (sink) site",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ['shopify', 'cp', 'stream', 'source', 'sink', 'copy', 'duplicate', 'pages', 'products'],
+  "author": "Jake Burden <jake@doge.haus>",
+  "license": "MIT",
+  "dependencies": {
+    "shopify-pages-cp": "^1.0.2",
+    "shopify-products-cp": "^1.0.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jekrb/shopify-cp.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jekrb/shopify-cp/issues"
+  },
+  "homepage": "https://github.com/jekrb/shopify-cp#readme"
+}
