@@ -6,7 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": ['shopify', 'cp', 'stream', 'source', 'sink', 'copy', 'duplicate', 'pages', 'products'],
+  "keywords": ["shopify", "cp", "stream", "source", "sink", "copy", "duplicate", "pages", "products"],
   "author": "Jake Burden <jake@doge.haus>",
   "license": "MIT",
   "dependencies": {
